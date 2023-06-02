@@ -4,7 +4,7 @@ This is the code base for the information theoretric analysis of in our **INTERS
 
 :pencil: [An Information-Theoretic Analysis of Self-supervised Discrete Representations of Speech](Arxiv Link)
 
-<!-- To cite the paper
+To cite the paper
 
 ```
 @inproceedings{Abdullah2023phone2unit,
@@ -13,4 +13,4 @@ This is the code base for the information theoretric analysis of in our **INTERS
   booktitle={Proc. Interspeech},
   year={2023}
 }
-``` -->
+
